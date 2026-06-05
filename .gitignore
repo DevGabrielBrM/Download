@@ -1,0 +1,10 @@
+node_modules/
+.next/
+*.local
+.env.local
+.env
+.DS_Store
+dist/
+build/
+coverage/
+*.log
